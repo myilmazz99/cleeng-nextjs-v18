@@ -9,14 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@cleeng/mediastore-sdk": "^5.4.9",
+    "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "react-redux": "^7.2.6",
+    "styled-components": "^6.1.11"
   },
   "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
     "eslint": "^8",
-    "eslint-config-next": "14.2.3"
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
   }
 }
